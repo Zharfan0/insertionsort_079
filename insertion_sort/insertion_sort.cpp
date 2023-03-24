@@ -46,3 +46,5 @@ void insertionsort() {
 			j--;
 		}
 		arr[j + 1] = temp;
+
+		cout << "\nPass " << i << ": ";
